@@ -6,7 +6,7 @@
 		<div class="col-lg-6">
 			<strong>Listing Users</strong>
 			<hr />
-			<table>
+			<table border="1">
 				<thead>
 					<th>User ID</th>
 					<th>User Name</th>
